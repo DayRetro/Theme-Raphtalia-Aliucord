@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "DayRetro",
+        "version": "1.0.1",
+        "name": "Raphtalia",
+        "updater": ""
+    },
+    "background": {
+        "blur_radius": 0,
+        "url": "https:\/\/i.ibb.co\/RNP7K0G\/20240212-121458.png",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -7978743,
+        "mention_highlight": -1660980480,
+        "statusbar": -12180987,
+        "input_background": -530158482
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
