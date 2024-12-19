@@ -39,19 +39,19 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#331702",
+            "#331702",
+            "#331702"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#331702",
+            "#331702",
+            "#331702"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#ed995c",
+            "#ed995c",
+            "#ed995c"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222959",
@@ -79,9 +79,9 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#331a08",
-            "#331a08",
-            "#331a08"
+            "#632b02",
+            "#632b02",
+            "#632b02"
         ],
         "BACKGROUND_SECONDARY": [
             "#26150a",
@@ -149,14 +149,14 @@
 	    "#0f1428"
 	],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#f2aa83",
+            "#f2aa83",
+            "#f2aa83"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0a2848",
-            "#dcddde",
-            "#000000"
+            "#6e2a03",
+            "#6e2a03",
+            "#6e2a03"
         ],
         "DEPRECATED_CARD_BG": [
             "#0a2848",
