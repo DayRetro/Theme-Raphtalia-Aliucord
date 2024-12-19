@@ -119,9 +119,9 @@
             "#000000"
         ],
 	"CARD_PRIMARY_BG": [
-	    "#03081c",
-	    "#03081c",
-	    "#03081c"
+	    "#1c0c03",
+	    "#1c0c03",
+	    "#1c0c03"
 	],
 	"CARD_SECONDARY_BG": [
 	    "#03081c",
@@ -134,9 +134,9 @@
             "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#2780E64d",
-            "#2780E64d",
-            "#2780E64d"
+            "#e66a274d",
+            "#e66a274d",
+            "#e66a274d"
         ],
         "CHAT_BACKGROUND": [
             "transparent",
@@ -359,9 +359,9 @@
             "#000000"
         ],
 	"PANEL_BG": [
-	    "#111423",
-            "#111423",
-            "#111423"
+	    "#231611",
+            "#231611",
+            "#231611"
 	],
 	"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
 	    "#03081c",
@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/DayRetro/Theme-Raphtalia-Aliucord/refs/heads/main/raphtalia.webp",
-	"alpha": 0.25
+	"alpha": 0.30
     },
     "plus": {
         "version": 0,
